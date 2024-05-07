@@ -1,0 +1,22 @@
+.box{
+    height: 31.25rem;
+    width: 31.25rem;
+    margin: 2rem auto;
+}
+.btn{
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+button{
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: rgb(66, 66, 235);
+    font-size: 1.2rem;
+    border-radius: 5px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+}
